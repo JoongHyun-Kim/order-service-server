@@ -9,7 +9,7 @@
 #### [3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용]( https://github.com/JoongHyun-Kim/spring-study/blob/main/%EA%B9%80%EC%A4%91%ED%98%84/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/Week7/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B42_%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%9B%90%EB%A6%AC%20%EC%A0%81%EC%9A%A9.md )
 #### [4. 스프링 컨테이너와 스프링 빈]( https://thunder-animantarx-b6f.notion.site/354da0da59584212953c3a0ac5e00528 )
 #### [5. 싱글톤 컨테이너]( https://thunder-animantarx-b6f.notion.site/c9f0b3cbb93e45c7b822db785baed778 )
-#### 6. 컴포넌트 스캔
+#### [6. 컴포넌트 스캔]( https://thunder-animantarx-b6f.notion.site/e0df35b26f6c4c2b91cc6a4a748d45f0 )
 #### 7. 의존관계 자동 주입
 #### 8. 빈 생명주기 콜백
 #### 9. 빈 스코프

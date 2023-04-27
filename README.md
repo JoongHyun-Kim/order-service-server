@@ -10,6 +10,6 @@
 #### [4. 스프링 컨테이너와 스프링 빈]( https://thunder-animantarx-b6f.notion.site/354da0da59584212953c3a0ac5e00528 )
 #### [5. 싱글톤 컨테이너]( https://thunder-animantarx-b6f.notion.site/c9f0b3cbb93e45c7b822db785baed778 )
 #### [6. 컴포넌트 스캔]( https://thunder-animantarx-b6f.notion.site/e0df35b26f6c4c2b91cc6a4a748d45f0 )
-#### 7. 의존관계 자동 주입
+#### [7. 의존관계 자동 주입]( https://thunder-animantarx-b6f.notion.site/8fcd686accbf459f88e4934f981c872c )
 #### 8. 빈 생명주기 콜백
 #### 9. 빈 스코프
